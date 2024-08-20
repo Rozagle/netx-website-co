@@ -1,0 +1,155 @@
+{
+    "hero": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "ourexpertise": "Uzmanlık Alanlarımız",
+    "reference": "Referanslar",
+    "team": "Ekip",
+    "contact": "İletişim",
+
+    "left_side_hero": {
+      "heading": "Projeleriniz için tek adımda çözümler",
+      "subheading": "Tek BİR platformda",
+      "description": "Yazılım şirketleri, süreçleri optimize etmek ve endüstrileri dönüştürmek için çözümler üreten",
+      "button_text": "Keşf et"
+    },
+    "analysis": {
+      "heading": "VERİ ANALIZI",
+      "h1": "İşinizi analiz ediyor ve size en iyi çözümü sunuyoruz",
+      "description":"Merkezi veri analizi merkezimizle kuruluşunuzu güçlendirin. Platformumuz, veri toplama, düzenleme ve analiz için bir dizi araç sunar, bilinçli karar verme için işe yarar içgörüler sağlar. İş akışlarını optimize edin, işbirliğini artırın ve veri analizi çabalarınızın tam potansiyelini açığa çıkarın."
+    },
+    "client":{
+      "heading1":"",
+      "heading2": "Referanslar",
+      "subheading": "Birlikte çalıştığımız müşterilerimiz"
+    },
+    "contactus": {
+      "heading": "Bize İstediğiniz Zaman Ulaşın!",
+      "subheading": "Akışınızı optimize etmek için ipuçları ve püf noktaları mı istiyorsunuz?",
+      "policydescription": "Verilerinizin korunmasına önem veriyoruz. Şu",
+      "policydescriptionspan": " Gizlilik Politikası",
+      "notifymebtn": "Bildir",
+      "subscriptionSuccesstxt": "Abone olduğunuz için teşekkür ederiz!",
+      "subscriptionSuccesstxt2": "Mesajınız başarıyla gönderildi.",
+      "erroremail": "Lütfen bir e-posta adresi giriniz.",
+      "errorvalidemail": "Lütfen geçerli bir e-posta adresi giriniz.",
+      "erroremptyname":"Lütfen adınızı giriniz.",
+      "erroremptycompany":"Lütfen şirket Adınızı giriniz",
+      "placeholdername": "Adınız",
+      "placeholdercompanyname": "Şirket Adı",
+      "placeholderemail": "E-posta Adresinizi girin"
+      },
+    "OurExpertise":{
+      "heading":"Uzmanlıklarımız",
+      "subheading":"Aşağıdaki alanlarda projeler geliştiriyoruz.",
+      "firstgridheading":"Servet Yönetimi",
+      "firstgridsubheading":"Siyeso Servet Yönetimi Çözümü, servet yöneticilerinin süreçler esnasında karşılaşabilecekleri her türlü engeli aşmalarına yardım ederek karlı ve sürdürülebilir bir iş sağlamak için tasarlanmış özel bir Bankacılık finansman çözümüdür.",
+      "secondgridheading":"Kıymetli Maden Yönetimi",
+      "secondgridsubheading":"Kıymetli madenler platformu borsa, banka, müşteri, yerli ve yabancı finans kurumlarındaki işlemlerin yönetilebileceği bir sistemdir. Kuruluşlar kıymetli maden işlemlerini otomatize edip hızlıca finansal sisteme kazandıracaklardır.",
+      "thirdgridhaeding":"Hazine Yönetimi",
+      "thirdgridsubhaeding":"Finansal platformlarda özelleştirilmiş hazine çözümleri sunulmaktadır.",
+      "forthgridheading":"Ar-Ge Çalışmaları",
+      "forthgridsubheading":"Finansal sistemlerle bütünleşik, yeni çözümler üretilmektedir."
+    },
+    "About":{
+      "heading":"Hakkımızda",
+      "subheading":"Biz bir dijital yaratıcı ajansız",
+      "description":"Siyeso, başta bankacılık ve finans alanında kurumların ihtiyaçları doğrultusunda çözümler sunan bir şirkettir. Deneyimli kadrosuyla kurumların iş yapış modellerini değiştirmelerine yardımcı olacak danışmanlık hizmeti de vermektedir. Teknopark üyesi olan şirketimiz AR-GE çözümleri de üretmekte ve bu tür projelere destek vermeyi sürdürmektedir. Şirketimiz sadece ülke içinde değil ülke dışında da hizmetler sunmak için çalışmalarını sürdürmektedir. Müşteri odaklı yaklaşımı benimseyen firmamız, çevik yaklaşım (AGILE) esaslarına uygun olarak platform bağımsız yeni nesil teknolojilerle yazılım projeleri geliştiren şirketimiz müşterilerinin rekabet gücünün artmasına yardımcı olmayı hedeflemektedir."
+    },
+    
+    "Footer": {
+      "heading1": "Bilgilerimiz",
+      "address": "Adres:  Sanayi Mahallesi, Teknopark Bulvarı, No: 1 / 2C İç Kapı No: 2105 Pendik İSTANBUL",
+      "phone": "Ofis: +90 532 595 97 09",
+      "mail": "Destek: info@siyeso.com",
+      "heading2": "Diğerleri",
+      "contactus": "Bize Ulaşın",
+      "policy": "Gizlilik Politikası",
+      "terms": "Kullanım Şartları",
+      "newsletter": "Bülten",
+      "newsletterdescription": "Bültenimize abone olun ve güncellemelerimizden ilk siz haberdar olun",
+      "Subscribe": "Abone Ol",
+      "subscriptionSuccesstxt": "Abone olduğunuz için teşekkür ederiz!",
+      "subscriptionSuccesstxt2": "Siyeso hakkında güncellemeler alacaksınız"
+  },
+  "changing": {
+    "imageUrl1": "/frameTr11.svg",
+    "imageUrl2": "/frameTr2.svg",
+    "imageUrl3": "/frameTr3.svg",
+    "imageUrl4": "/frameTr4.svg"
+  },
+  "RequirementExpertise":{
+    "heading":"Dijitalleşmedeki Ortak Problemler",
+    "subheading":"Şirketler büyüdükçe daha iyi projeler ortaya çıkabiliyor. Ancak çözülmesi gereken ortak sorunlar var.",
+    "headingtxt1":"Hızlıca Değişen İhtiyaçlar",
+    "headingtxt2":"Geliştirme Süreçleri",
+    "headingtxt3":"Uzmanlık Gereksinimi",
+    "headingtxt4":"Benzersiz Gereksinimler",
+    "subheadingtxt1":"Kurumlar, hızla gelişen piyasa ekonomisine paralel olarak sürekli yeni teknolojik uygulamalara ihtiyaç duyuyor.",
+    "subheadingtxt2":"Geliştirme sürecini hızlandırmak için akıllıca organize edilmesi gerekiyor. Organizasyon eksik olduğunda, geliştirme süreci giderek uzuyor.",
+    "subheadingtxt3":"Deneyimli yazılımcı bulmakta zorlanan firmalar yeni fikirlerini hayata geçirme imkanı elde edemiyorlar.",
+    "subheadingtxt4":"İş süreçleri için benzersiz bir ürün arayışında olan şirketler, mevcut sistemlere entegrasyon sırasında uyum sorunlarıyla karşılaşmaktadır."
+  },
+  "Team":
+  {
+    "heading":"Takım",
+    "subheading1":"Her geçen gün büyüyen uzman takımımız sayesinde \"tek adımlı çözümler\"",
+    "subheading2":" sunmaya devam edebiliyoruz.",
+    "title1":"Yönetici Ortak Genel Müdür",
+    "title1sub":"Genel Müdür",
+    "title2":"Yönetici Ortak",
+    "title3":"Danışman",
+    "title4":"Yazılım Mimarı",
+    "title5":"Proje Yöneticisi",
+    "title6":"Danışman",
+    "title7":"Proje Yöneticisi",
+    "title8":"Yazılım Geliştirici",
+    "title9":"Yazılım Geliştirici",
+    "title10":"Proje Yöneticisi",
+    "title11":"Yazılım Mühendisi"
+  },
+  "PolicyPrivacy":
+  {
+    "btn":"Ana Sayfa ",
+    "heading":"Gizlilik Politikası",
+    "time":"Son Güncelleme Tarihi: 1 Haziran 2024",
+    "title1":"Gizlilik Politikası Hakkında",
+    "sub1title1":"Bu Gizlilik Politikası, Hizmet'i kullandığınızda Bilgilerinizin toplanması, kullanılması ve açıklanması ile ilgili politikalarımızı ve prosedürlerimizi açıklar ve gizlilik haklarınızı ve yasaların size nasıl koruma sağladığını size bildirir.",
+    "sub1title2":"Kişisel verilerinizi Hizmet'i sağlamak ve iyileştirmek için kullanıyoruz. Hizmet'i kullanarak, bu Gizlilik Politikası'na uygun olarak bilgi toplanması ve kullanılmasını kabul edersiniz.",
+    "sub1title3":"Gizliliğinizi korumaya ve kişisel verilerinizin sorumlu bir şekilde işlenmesini sağlamaya kararlıyız.",
+    "sub1title4":"Gizlilik politikamızı anlamak, bilgilerinizi bizimle paylaşma konusunda bilinçli kararlar almanıza yardımcı olacaktır.",
+    "title2":"Topladığımız Bilgiler",
+    "sub2title1": "Hizmetimizi kullanırken, sizi tanımlamak veya iletişim kurmak için kullanılabilecek belirli kişisel bilgilerinizi bize sağlamanızı isteyebiliriz. Adınız, e-posta adresiniz ve özel detaylar gibi, doğrudan bizimle paylaştığınız bilgileri topluyoruz.",
+    "sub2title2":"Hizmetlerimizi geliştirmek amacıyla üçüncü taraf kaynaklardan sizinle ilgili bilgiler alabiliriz.",
+    "title3":"Bilgilerinizi Nasıl Kullanıyoruz",
+    "sub3title1":"Kullanıcı verileri, güvenliği sağlama ve dolandırıcılığı önleme açısından kritiktir. Bu veriler, kişisel bilgilerin yanı sıra kullanıcıların etkileşimleri, tercihleri ve işlem geçmişi gibi bir dizi bilgiyi içerebilir. Bu bilgiler, hizmetimizin işleyişini anlamamıza ve iyileştirmemize yardımcı olurken, kullanıcı deneyimini kişiselleştirmemize ve hizmetlerimizi optimize etmemize olanak tanır. Ayrıca, güvenlik tehditlerini belirleme ve önleme, sahtekarlık tespiti ve yasal gereksinimlere uyum gibi amaçlarla kullanılır. Bu nedenle, kişisel verilerin doğru şekilde toplanması, kullanılması ve korunması, hem sizin gizliliğinizin hem de hizmetimizin güvenliğinin sağlanması açısından hayati öneme sahiptir.",
+    "sub3title2":"Kullanım Verileri, cihazınızın İnternet Protokol adresi (örneğin, IP adresi), tarayıcı türü, tarayıcı sürümü, hizmetimizin sayfaları, benzersiz cihaz tanımlayıcıları ve diğer teşhis verileri gibi bilgileri içerebilir.",
+    "title4":"Bilgilerinizi Paylaşma",
+    "sub4title1":"Verileriniz, web sitemizin işletilmesi ve iş faaliyetlerimizin yürütülmesinde bize yardımcı olan güvenilir iş ortaklarımızla paylaşılabilir.",
+    "sub4title2":" Yasal yükümlülüklere uymak veya haklarımızı korumak amacıyla bilgilerinizi açıklayabiliriz.",
+    "title5":"Veri Güvenliği",
+    "sub5title1":"Kişisel bilgilerinizi yetkisiz erişimden korumak için güçlü güvenlik önlemleri uygularız.",
+    "sub5title2":" Düzenli güvenlik denetimleri ve şifreleme teknolojileri verilerinizin güvenliğini sağlar.",
+    "sub5title3":" Çabalarımıza rağmen, hiçbir güvenlik sistemi aşılmaz değildir ve sizin de önlem almanızı öneririz.",
+    "title6":"Seçimleriniz ve Haklarınız",
+    "sub6title1":"Kişisel bilgilerinize erişme, düzeltme veya silme hakkına sahipsiniz.",
+    "sub6title2":" Bizden promosyon amaçlı iletişimler almayı istediğiniz zaman durdurabilirsiniz.",
+    "sub6title3":" Politikamız, veri koruma haklarınızı kullanma sürecini ayrıntılı olarak açıklar.",
+    "title7":"Bu Politikadaki Değişiklikler",
+    "sub7title1":"Uygulamalarımızdaki değişiklikleri yansıtmak için gizlilik politikamızı zaman zaman güncelleyebiliriz.",
+    "sub7title2":" Önemli değişiklikler size web sitemiz veya e-posta yoluyla bildirilecektir.",
+    "sub7title3":" Politika değişikliklerinden sonra hizmetlerimizi kullanmaya devam etmeniz, yeni şartları kabul ettiğiniz anlamına gelir.",
+    "title8":"Gizlilik Politikası Hakkında",
+    "sub8title1":"Gizlilik politikamız hakkında herhangi bir sorunuz veya endişeniz varsa, lütfen ",
+    "sub8title2":" adresinden bizimle iletişime geçin. Destek ekibimiz, gizliliğiniz ve veri korumanızla ilgili tüm sorunları çözmek için hizmetinizdedir.",
+    "sub8title3":" Geri bildiriminize değer veriyoruz ve gizlilik uygulamalarımızı girdilerinize dayanarak iyileştirmeye çalışıyoruz.",
+    "contactUssub": "Gizlilik politikamızla ilgili her türlü soru için bize ",
+    "contactUssub1": " mail adresten ulaşabilirsiniz."
+
+
+  }
+
+  
+
+
+  }
+  

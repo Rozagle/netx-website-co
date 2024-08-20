@@ -1,0 +1,148 @@
+{
+    "hero": "Home",
+    "about": "About",
+    "ourexpertise": "Our Expertise",
+    "reference": "Reference",
+    "team": "Team",
+    "contact": "Contact",
+    
+    "left_side_hero": {
+      "heading": "One-step solutions for your projects",
+      "subheading": "All in one platform",
+      "description": "Software companies are tech innovators, crafting and delivering solutions to streamline",
+      "button_text": "Learn more"
+    },
+    "analysis": {
+      "heading": "DATA ANALYSIS",
+      "h1": "We analyze your business and provide you with the best solution",
+      "description":"Empower your organization with our centralized data analysis hub. Our platform offers a suite of tools for gathering, organizing, and analyzing data, providing actionable insights for informed decision-making. Optimize workflows, enhance collaboration, and unlock the full potential of your data analysis efforts."
+    },
+    "client":{
+      "heading": "References",
+      "subheading":"These are the customers, We've worked with"
+    },
+    "contactus":{
+      "heading":"Feel Free to Contact Us!",
+      "subheading":"Want tips and tricks to optimize your flow?",
+      "policydescription":"We care about the protection of your data. Read our",
+      "policydescriptionspan": " Privacy Policy",
+      "notifymebtn": "Notify me",
+      "subscriptionSuccesstxt":"Thank you for subscribing!",
+      "subscriptionSuccesstxt2":"Your message was successfully sent.",
+      "erroremail":"Please enter an email address.",
+      "errorvalidemail":"Please enter a valid email address.",
+      "erroremptyname": "Please enter your name.",
+      "erroremptycompany": "Please enter your company name.",
+      "placeholdername": "Enter your name",
+      "placeholdercompanyname": "Enter your Company Name",
+      "placeholderemail": "Enter Email Address"
+    },
+    "OurExpertise":{
+      "heading":"Our Expertise",
+      "subheading":"We develop projects for different types of customers in below areas.",
+      "firstgridheading":"Wealth Management",
+      "firstgridsubheading":"Siyeso Wealth Management Solution, a Private Banking finance solution that designed for helping asset managers to overcome any obstacle and to assist them for a sustainable and profitable business.",
+      "secondgridheading":"Precious Metal Management",
+      "secondgridsubheading":"The precious metals platform is a system where transactions in stock exchanges, banks, customers, domestic and foreign financial institutions can be managed. Organizations will automate their precious metal transactions and quickly bring them into the financial system.",
+      "thirdgridhaeding":"Treasury Management",
+      "thirdgridsubhaeding":"Customized treasury management solutions are offered on financial platforms.",
+      "forthgridheading":"R&D Works",
+      "forthgridsubheading":"New solutions are produced integrated with financial systems."
+    },
+    "About":{
+      "heading":"About Our Business",
+      "subheading":"We are a creative agency",
+      "description":"Siyeso is a company that offers solutions in line with the needs of institutions, especially in the field of banking and finance. With its experienced staff, it also provides consultancy services to help institutions change their business models. Our company, which is a member of Technopark, also produces R&D solutions and continues to support such projects. Our company continues its efforts to provide services not only within the country but also outside the country. Our company, which adopts a customer-oriented approach, develops software projects with platform-independent new generation technologies in accordance with the agile approach (AGILE) principles, and aims to help its customers increase their competitiveness"
+    },
+    "Footer":{
+      "heading1":"Our Information",
+      "address":"Address: Sanayi Neighborhood, Teknopark Boulevard, No: 1 / 2C Inner Door No: 2105 Pendik ISTANBUL",
+      "phone":"Office: +90 532 595 97 09",
+      "mail":"Support: info@siyeso.com",
+      "heading2": "Others",
+      "contactus":"Contact Us",
+      "policy":"Privacy Policy",
+      "terms":"Terms and Conditions",
+      "newsletter":"Newsletter",
+      "newsletterdescription":"Subscribe to our newsletter and be the first to know about our updates",
+      "Subscribe":"Subscribe",
+      "subscriptionSuccesstxt":"Thank you for subscribing!",
+      "subscriptionSuccesstxt2":"You will get updates about siyeso"
+    },
+    "changing": {
+      "imageUrl1": "/frameEn11.svg",
+      "imageUrl2": "/frameEn2.svg",
+      "imageUrl3": "/frameEn3.svg",
+      "imageUrl4": "/frameEn4.svg"
+    },
+    "RequirementExpertise":{
+      "heading":"Common Problems About ​Digitalization",
+      "subheading":"The more companies grow, the better projects emerge. ​But there are common problems that need to be solved.",
+      "headingtxt1":"Rapidly Changing Needs",
+      "headingtxt2":"Development Processes",
+      "headingtxt3":"Expertise Requirement",
+      "headingtxt4":"Unique Requirements",
+      "subheadingtxt1":"Institutions constantly need new technological applications in parallel with the rapidly developing market economy.",
+      "subheadingtxt2":"Because in order to speed up the development process, it needs to be organized intelligently. When the organization is missing, the development process takes longer.",
+      "subheadingtxt3":"Companies that have difficulty in finding experienced software developers cannot bring their new ideas to life.",
+      "subheadingtxt4":"Companies in search of a unique product for their business processes encounter compliance problems during integration into existing systems."
+
+    },
+    "Team":
+    {
+      "heading":"Our Team",
+      "subheading1":"Thanks to our expert team that growing every day,",
+      "subheading2":" we can keep serve \"one-step solutions\".",
+      "title1": "Managing Partner General Director",
+      "title2":"Managing Partner",
+      "title3":"Consultant",
+      "title4":"Software Architect",
+      "title5":"Project Manager",
+      "title6":"Consultant",
+      "title7":"Project Manager",
+      "title8":"Software Developer",
+      "title9":"Software Developer",
+      "title10":"Project Manager",
+      "title11":"Software Engineer"
+    },
+    "PolicyPrivacy":
+    {
+      "btn":"Back to Home",
+      "heading":"Policy Privacy",
+      "time":"Last updated: June 01, 2024",
+      "title1":"Introduction to Privacy Policy",
+      "sub1title1":"This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use the Service and tells you about your privacy rights and how the law protects you.",
+      "sub1title2":"We use your personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.",
+      "sub1title3":"We are committed to safeguarding your privacy and ensuring that your personal data is handled responsibly.",
+      "sub1title4":"Understanding our privacy policy will help you make informed decisions about sharing your information with us.",
+      "title2":"Information We Collect",
+      "sub2title1":"While using Our Service, We may ask You to provide us with certain personally identifiable information that can be used to contact or identify you.We collect information that you provide directly to us, such as your name, email address, and specific details.",
+      "sub2title2":"We may obtain information about you from third-party sources to enhance our services.",
+      "title3":"How We Use Your Information",
+      "sub3title1":"User data is critical for ensuring security and preventing fraud. This data can encompass a range of information beyond personal details, including user interactions, preferences, and transaction history. These insights not only help us understand and enhance the functioning of our service but also enable us to personalize user experiences and optimize our offerings. Additionally, they are utilized for purposes such as identifying and mitigating security threats, detecting fraud, and ensuring compliance with legal requirements. Therefore, the accurate collection, utilization, and protection of personal data are vital for ensuring both your privacy and the security of our service.",
+      "sub3title2":"Usage Data may include information such as your device's Internet Protocol address (e.g., IP address), browser type, browser version, the pages of our Service that unique device identifiers, and other diagnostic data.",
+      "title4":"Sharing Your Information",
+      "sub4title1":"Your data may be shared with trusted partners who assist us in operating our website and conducting our business.",
+      "sub4title2":" We may disclose your information to comply with legal obligations or protect our rights.",
+      "title5":"Data Security",
+      "sub5title1":"We implement robust security measures to protect your personal information from unauthorized access.",
+      "sub5title2":" Regular security audits and encryption technologies ensure the safety of your data.",
+      "sub5title3":" Despite our efforts, no security system is impenetrable, and we encourage you to take precautions as well.",
+      "title6":"Your Choices and Rights",
+      "sub6title1":"You have the right to access, correct, or delete your personal information.",
+      "sub6title2":" You can opt-out of receiving promotional communications from us at any time.",
+      "sub6title3":" Our policy outlines the process for exercising your data protection rights.",
+      "title7":"Changes to This Policy",
+      "sub7title1":"We may update our privacy policy from time to time to reflect changes in our practices.",
+      "sub7title2":" Significant changes will be communicated to you through our website or via email.",
+      "sub7title3":" Your continued use of our services after policy changes constitutes acceptance of the new terms.",
+      "title8":"Contact Us",
+      "sub8title1":"If you have any questions or concerns about our privacy policy, please contact us at ",
+      "sub8title2":"Our support team is available to address any issues related to your privacy and data protection.",
+      "sub8title3":" We value your feedback and strive to improve our privacy practices based on your input.",
+      "contactUssub":"Contact us at ",
+      "contactUssub1":" for any inquiries regarding our privacy policy."
+    }
+    
+  }
+  
